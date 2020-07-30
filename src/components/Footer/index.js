@@ -6,7 +6,7 @@ import Logo from '../../assets/img/flix.png';
 function Footer() {
   return (
     <FooterBase>
-      <a href="#">
+      <a href="alexricardo.dev.br">
         <img src={Logo}  alt="Logo flix" style={{height: "100px"}} />
       </a>
       <p> Flix - CopyRight </p>
