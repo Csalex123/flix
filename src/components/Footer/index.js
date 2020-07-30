@@ -7,7 +7,7 @@ function Footer() {
   return (
     <FooterBase>
       <a href="alexricardo.dev.br">
-        <img src={Logo}  alt="Logo flix" style={{height: "100px"}} />
+        <img src={Logo}  alt="Logo flix" style={{height: "60px"}} />
       </a>
       <p> Flix - CopyRight </p>
     </FooterBase>

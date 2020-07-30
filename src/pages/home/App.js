@@ -1,6 +1,6 @@
 import React from 'react';
 
-import './index.js';
+import './index.css';
 
 import Menu from '../../components/Menu';
 import dadosIniciais from '../../data/dados_iniciais.json';
