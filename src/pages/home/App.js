@@ -15,9 +15,9 @@ function App() {
       <Menu />
 
       <BannerMain
-        videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
-        url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa!"}
+        videoTitle={"Velozes & Furiosos 9"}
+        url={"https://www.youtube.com/watch?v=NnDGWyfP7q4"}
+        videoDescription={"Dominic Toretto e sua equipe juntam forças para combater o assassino mais habilidoso e o motorista de alto desempenho que já encontraram - seu irmão abandonado."}
       />
 
       <Carousel

@@ -1,106 +1,106 @@
 {
     "categorias": [
       {
-        "titulo": "Front End",
-        "link": "https://www.alura.com.br/formacao-front-end",
+        "titulo": "Em alta",
+        "link": "",
         "cor": "#6BD1FF",
         "link_extra": {
-          "text": "Formação de Front End na Alura",
+          "text": "Top 10 filmes de hoje",
           "url": "https://www.alura.com.br/cursos-online-front-end"
         },
         "videos": [
           {
-            "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-            "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+            "titulo": "POWER",
+            "url": "https://www.youtube.com/watch?v=Zd7T8Gw1-jg"
           },
           {
-            "titulo": "SEO com React",
-            "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+            "titulo": "Sonic",
+            "url": "https://www.youtube.com/watch?v=zQEjE_M2Esw"
           },
           {
-            "titulo": "Componentização com VanillaJS #AluraMais",
-            "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+            "titulo": "Adú",
+            "url": "https://www.youtube.com/watch?v=EJZiy9fG8oQ"
           },
           {
-            "titulo": "Pare de chutar e aprenda a display: inline #01",
-            "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+            "titulo": "ARCHIVE",
+            "url": "https://www.youtube.com/watch?v=I8WfXdxQ0Cw"
           },
           {
-            "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-            "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+            "titulo": "Quando o Sol se Põe",
+            "url": "https://www.youtube.com/watch?v=rQsex4-uRmo"
           },
           {
-            "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-            "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+            "titulo": "The Old Guard",
+            "url": "https://www.youtube.com/watch?v=x4_EAlRLY_E"
           },
           {
-            "titulo": "Novidades do Angular v9",
-            "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+            "titulo": "A Barraca do Beijo",
+            "url": "https://www.youtube.com/watch?v=jCqEDVUAPbU"
           },
           {
-            "titulo": "Base para aprender os frameworks",
-            "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+            "titulo": "VINGANÇA A SANGUE-FRIO",
+            "url": "https://www.youtube.com/watch?v=_Q5Z3hxV2eg"
           }        
         ]
       },
       {
-        "titulo": "Back End",
+        "titulo": "Suspense",
         "cor": "#00C86F",
         "link_extra": {
-          "text": "Cursos de Back End na Alura",
-          "url": "https://www.alura.com.br/cursos-online-programacao"
+          "text": "",
+          "url": ""
         },
         "videos": [
           {
-            "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-            "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+            "titulo": "",
+            "url": "https://www.youtube.com/watch?v=EQdEoPvw26M"
           },
           {
-            "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-            "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+            "titulo": "",
+            "url": "https://www.youtube.com/watch?v=uKY0dYfOibI"
           },
           {
-            "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-            "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+            "titulo": "",
+            "url": "https://www.youtube.com/watch?v=iphqRPaaeP8"
           },
           {
-            "titulo": "API: Dicionário do Programador",
-            "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+            "titulo": "",
+            "url": "https://www.youtube.com/watch?v=Kp9JghhGPao"
           }, 
           {
             "titulo": "Usando Git Direito",
-            "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+            "url": "https://www.youtube.com/watch?v=TZsgNH17_X4"
           }
         ]
       },
       {
-        "titulo": "Data Science e Inteligência Artificial",
+        "titulo": "Ação",
         "cor": "#9cd33b",
         "link_extra": {
-          "text": "Cursos de Data Science na Alura",
-          "url": "https://www.alura.com.br/formacao-data-science"
+          "text": "",
+          "url": ""
         },
         "videos": [
           {
-            "titulo": "Teste de Turing",
-            "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+            "titulo": "",
+            "url": "https://www.youtube.com/watch?v=LHYx5wMJubk"
           },
           {
-            "titulo": "O que é Data Science?",
-            "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+            "titulo": "",
+            "url": "https://www.youtube.com/watch?v=Qbfhtw5SmXs"
           },
           {
-            "titulo": "Melhor forma de aprender Python",
-            "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+            "titulo": "",
+            "url": "https://www.youtube.com/watch?v=jfVTJm9NilA"
           },
           {
-            "titulo": "Como ingressar no mercado de Data Science?",
+            "titulo": "",
             "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
           }
         ]
       },
       {
-        "titulo": "Filmes",
+        "titulo": "Terror",
         "cor": "orange",
         "videos": [
           {
@@ -122,11 +122,11 @@
         ]
       },
       {
-        "titulo": "Games",
+        "titulo": "Comédia",
         "cor": "red",
         "link_extra": {
-          "text": "Formação de Jogos na Alura",
-          "url": "https://www.alura.com.br/formacao-jogos-unity"
+          "text": "",
+          "url": ""
         },
         "videos": [
           {
@@ -152,7 +152,7 @@
         ]
       },
       {
-        "titulo": "Aprendendo a aprender tecnologia",
+        "titulo": "Séries",
         "cor": "#6b5be2",
         "link_extra": {
           "text": "Curso sobre aprendizado na Alura",
